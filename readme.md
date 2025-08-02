@@ -12,7 +12,7 @@ This project is a minimal, local-first AI research assistant built with CrewAI, 
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/your-username/agentic-research-assistant.git
+   git clone https://github.com/Taha-azizi/researchgen.git
 
 2. Install dependencies:
    pip install -r requirements.txt
