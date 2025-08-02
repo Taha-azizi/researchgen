@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+ollama
+beautifulsoup4
+requests
+ddgs
+duckduckgo_search 
+fpdf
