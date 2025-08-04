@@ -25,3 +25,6 @@ This project is a minimal, local-first AI research assistant built with CrewAI, 
 Execute the main script:
 ```bash
 python main.py
+
+## Article
+(https://medium.com/towards-artificial-intelligence/build-a-free-local-ai-research-agent-with-python-a616b4330b8d)
